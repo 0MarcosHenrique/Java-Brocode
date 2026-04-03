@@ -1,2 +1,2 @@
 # Java-Brocode
-Curso de java do canal BroCode
+Java course from the Bro Code channel
